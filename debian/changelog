@@ -1,3 +1,9 @@
+gst-plugins-good1.0 (1.8.2-1ubuntu2) yakkety; urgency=medium
+
+  * Enable v4l2 module for HW-accelerated decoding on exynos MFC
+
+ --  memeka <mihailescu2m@gmail.com>  Sat, 20 Aug 2016 21:12:56 +0000
+
 gst-plugins-good1.0 (1.8.2-1ubuntu1) yakkety; urgency=medium
 
   * Merge with Debian unstable (LP: #1594407); remaining changes:

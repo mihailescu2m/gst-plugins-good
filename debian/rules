@@ -171,6 +171,8 @@ DEB_CONFIGURE_EXTRA_FLAGS += \
 	--with-package-origin=$(GST_PACKAGE_ORIGIN) \
 	--enable-gtk-doc \
 	--enable-experimental \
+	--enable-v4l2-probe \
+	--without-libv4l2 \
 	--with-default-audiosink=$(DEFAULT_AUDIOSINK) \
 	--with-default-audiosrc=$(DEFAULT_AUDIOSRC) \
 	--with-default-videosink=$(DEFAULT_VIDEOSINK) \
