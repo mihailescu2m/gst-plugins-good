@@ -1,3 +1,9 @@
+gst-plugins-good1.0 (1.8.2-1ubuntu3) yakkety; urgency=medium
+
+  * Add v4l2 encoder (work by @ayaka)
+
+ -- memeka <mihailescu2m@gmail.com>  Fri, 26 Aug 2016 15:38:02 +0930
+
 gst-plugins-good1.0 (1.8.2-1ubuntu2) yakkety; urgency=medium
 
   * Enable v4l2 module for HW-accelerated decoding on exynos MFC
