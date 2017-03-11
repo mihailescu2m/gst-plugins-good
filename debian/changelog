@@ -1,3 +1,9 @@
+gst-plugins-good1.0 (1.11.2-9) experimental; urgency=medium
+
+  * Add v4l2 encoder (work by @ayaka) 
+
+ -- memeka <mihailescu2m@gmail.com>  Sat, 11 Mar 2017 21:43:31 +1030
+
 gst-plugins-good1.0 (1.11.2-1) experimental; urgency=medium
 
   * New development release
